@@ -1,2 +1,2 @@
 # insurance
-url['https://predict-charge.herokuapp.com/']
+'https://predict-charge.herokuapp.com/'
